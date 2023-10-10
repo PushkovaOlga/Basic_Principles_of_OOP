@@ -13,4 +13,4 @@ print(robocat1.material)
 class GreenRoboCat(RoboCat):
     def __init__(self, material, ears, superpower):
         super().__init__(material, ears)
-        self.superpower = superpower 
+        self.superpower = superpower
